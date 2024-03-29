@@ -48,10 +48,6 @@ Pour avoir accès aux données, il faut lancer le fichier `Clean_Dataset.ipynb`.
 4. ****
    - 
 
-5. ****
-   - 
-   - 
-
 ## Contributors
 
 - David Serruya
