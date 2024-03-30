@@ -46,7 +46,8 @@ Pour avoir accès aux données, il faut lancer le fichier `Clean_Dataset.ipynb`.
    - Le modèle repose sur un tableau de pixels + des variables structurées comme l'ethnie et le genre.
 
 4. **Deep_Learning_VG116.ipynb**
-   - 
+   - Création de deux modèles de Deep Learning d'estimation de l'âge d'individu à partir d'image à l'aide d'un modèle VGG 116.
+   - Résultats et Prédictions pour les deux modèles : reconnaissance visuelle des images, reconnaissance visuelle des images + des variables structurées comme l'ethnie et le genre.
 
 ## Contributors
 
