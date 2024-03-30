@@ -43,9 +43,9 @@ Pour avoir accès aux données, il faut lancer le fichier `Clean_Dataset.ipynb`.
 
 3. **Regression_With_Features.ipynb**
    - Utilisation du modèle Ridge pour déterminer l'age. 
-   - Le modèle repose uniquement sur un tableau de pixels + des variables structurées comme l'ethnie et le genre.
+   - Le modèle repose sur un tableau de pixels + des variables structurées comme l'ethnie et le genre.
 
-4. ****
+4. **Deep_Learning_VG116.ipynb**
    - 
 
 ## Contributors
